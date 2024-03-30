@@ -18,10 +18,10 @@
 - [X] Step 3: Data Fusion for COVID-19 Diagnostic Tasks (Early-Fusion Type I)
 - [X] Step 4: Data Annotation for COVID-19 Diagnostic Tasks (Based on WHO Guidelines v2020-2021)
 - [X] Step 5: Data Preprocessing for COVID-19 Diagnostic Tasks (e.g., Data Normalization, Data Cleaning and Data Balancing)
-- [X] Step 6: Feature Selection for Comperative Machine Learning Models Improvement (e.g., SelectKBest, Correlation Heatmap, LassoCV, and Extra Tree Classifier)
-- [X] Step 7: Developing Comperative Machine Learning Models for Training COVID-19 Diagnostic Tasks (n=9)
-- [X] Step 8: Evaluation of Comperative Machine Learning Models for COVID-19 Diagnostic Tasks Validation
-- [X] Step 9: Visualization of Comperative Machine Learning Models Outputs (e.g., ROC Curve, Percision-Recall Curve, Confusion Matrix, and Learning Rate)
+- [X] Step 6: Feature Selection for Comparative Machine Learning Models Improvement (e.g., SelectKBest, Correlation Heatmap, LassoCV, and Extra Tree Classifier)
+- [X] Step 7: Developing Comparative Machine Learning Models for Training COVID-19 Diagnostic Tasks (n=9)
+- [X] Step 8: Evaluation of Comparative Machine Learning Models for COVID-19 Diagnostic Tasks Validation
+- [X] Step 9: Visualization of Comparative Machine Learning Models Outputs (e.g., ROC Curve, Precision-Recall Curve, Confusion Matrix, and Learning Rate)
 
 
 ## A Different Traditional Approach for Automatic Comparative Machine Learning in Multimodality Covid-19 Severity Recognition
@@ -35,4 +35,4 @@
 ![AutoIFSCML](https://github.com/mrsaraei/Covid19_Data_Analysis/blob/549513fbce9ebf296c274bee5e1f21dfd6275c15/Fig.%203.png)
 ![Descended Composite Scores Average](https://github.com/mrsaraei/Covid19_Data_Analysis/blob/549513fbce9ebf296c274bee5e1f21dfd6275c15/Fig.%204.png)
 
-[^1]: Please feel free if you have any question :e-mail: mrsaraei3@gmail.com 
+[^1]: Please feel free to if you have any questions:e-mail: mrsaraei3@gmail.com 
