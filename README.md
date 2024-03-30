@@ -17,7 +17,7 @@
 - [X] Step 2: Data Encoding for CSV-based Numerical & Categorial Values
 - [X] Step 3: Data Fusion for COVID-19 Diagnostic Tasks (Early-Fusion Type I)
 - [X] Step 4: Data Annotation for COVID-19 Diagnostic Tasks (Based on WHO Guidelines v2020-2021)
-- [X] Step 5: Data Preprocessing for COVID-19 Diagnostic Tasks (e.g., Data Normalization, Handling Missing Value, Duplicate & Outliers Removal, and Data Balancing)
+- [X] Step 5: Data Preprocessing for COVID-19 Diagnostic Tasks (e.g., Data Normalization, Data Cleaning and Data Balancing)
 - [X] Step 6: Feature Selection for Comperative Machine Learning Models Improvement (e.g., SelectKBest, Correlation Heatmap, LassoCV, and Extra Tree Classifier)
 - [X] Step 7: Developing Comperative Machine Learning Models for Training COVID-19 Diagnostic Tasks (n=9)
 - [X] Step 8: Evaluation of Comperative Machine Learning Models for COVID-19 Diagnostic Tasks Validation
