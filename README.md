@@ -13,18 +13,18 @@
 + :white_check_mark: Task 4: The COVID-19 Severity Assessment
 
 **Technical Implementation Tasks**
-- :ballot_box_with_check: Step 1: Data Acquisition for Potential COVID-19 Cases (n=~2500)
-- :ballot_box_with_check: Step 2: Data Encoding for CSV-based Numerical & Categorial Values
-- :ballot_box_with_check: Step 3: Data Fusion for COVID-19 Diagnostic Tasks (Early-Fusion Type I)
-- :ballot_box_with_check: Step 4: Data Annotation for COVID-19 Diagnostic Tasks (Based on WHO Guidelines v2020-2021)
-- :ballot_box_with_check: Step 5: Data Preprocessing for COVID-19 Diagnostic Tasks (e.g., Data Normalization, Handling Missing Value, Duplicate & Outliers Removal, and Data Balancing)
-- :ballot_box_with_check: Step 6: Feature Selection for Comperative Machine Learning Models Improvement (e.g., SelectKBest, Correlation Heatmap, LassoCV, and Extra Tree Classifier)
-- :ballot_box_with_check: Step 7: Developing Comperative Machine Learning Models for Training COVID-19 Diagnostic Tasks (n=9)
-- :ballot_box_with_check: Step 8: Evaluation of Comperative Machine Learning Models for COVID-19 Diagnostic Tasks Validation
-- :ballot_box_with_check: Step 9: Visualization of Comperative Machine Learning Models Outputs (e.g., ROC Curve, Percision-Recall Curve, Confusion Matrix, and Learning Rate)
+- [X] Step 1: Data Acquisition for Potential COVID-19 Cases (n=~2500)
+- [X] Step 2: Data Encoding for CSV-based Numerical & Categorial Values
+- [X] Step 3: Data Fusion for COVID-19 Diagnostic Tasks (Early-Fusion Type I)
+- [X] Step 4: Data Annotation for COVID-19 Diagnostic Tasks (Based on WHO Guidelines v2020-2021)
+- [X] Step 5: Data Preprocessing for COVID-19 Diagnostic Tasks (e.g., Data Normalization, Handling Missing Value, Duplicate & Outliers Removal, and Data Balancing)
+- [X] Step 6: Feature Selection for Comperative Machine Learning Models Improvement (e.g., SelectKBest, Correlation Heatmap, LassoCV, and Extra Tree Classifier)
+- [X] Step 7: Developing Comperative Machine Learning Models for Training COVID-19 Diagnostic Tasks (n=9)
+- [X] Step 8: Evaluation of Comperative Machine Learning Models for COVID-19 Diagnostic Tasks Validation
+- [X] Step 9: Visualization of Comperative Machine Learning Models Outputs (e.g., ROC Curve, Percision-Recall Curve, Confusion Matrix, and Learning Rate)
 
 
-# A Different Traditional Approach for Automatic Comparative Machine Learning in Multimodality Covid-19 Severity Recognition
+## A Different Traditional Approach for Automatic Comparative Machine Learning in Multimodality Covid-19 Severity Recognition
 
 > [!NOTE]
 > Saraei, M., Rahmani, S., Rajebi, S., Danishvar, S. (2023). Int. J. Innov. Eng., 3(1), 1-12. doi: https://doi.org/10.59615/ijie.3.1.1
