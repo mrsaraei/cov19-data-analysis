@@ -1,6 +1,6 @@
 # Covid19_Data_Analysis
 **Machine Learning for COVID-19 Data Analysis Project**
-* Researcher: Mohammadreza Saraei[^1] ([Website](https://sites.google.com/view/mrsaraei)) 🇮🇷
+* Researcher: Mohammadreza Saraei[^1] 🇮🇷
 * Principal Investigator: Dr. Saman Rajebi ([Website](https://www.sites.google.com/view/samanrajebi/home)) 🇮🇷
 * Advisor: Dr. Sebelan Danishvar ([Website](https://www.brunel.ac.uk/people/sebelan-danishvar)) 🇬🇧
 
