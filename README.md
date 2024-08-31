@@ -35,4 +35,4 @@
 ![AutoIFSCML](https://github.com/mrsaraei/Covid19_Data_Analysis/blob/549513fbce9ebf296c274bee5e1f21dfd6275c15/Fig.%203.png)
 ![Descended Composite Scores Average](https://github.com/mrsaraei/Covid19_Data_Analysis/blob/549513fbce9ebf296c274bee5e1f21dfd6275c15/Fig.%204.png)
 
-[^1]: Please feel free to if you have any questions:e-mail: mrsaraei3@gmail.com 
+[^1]: Please feel free to if you have any questions:e-mail: mrsaraei68@gmail.com 
